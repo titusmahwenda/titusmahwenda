@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Titus Mahwenda
-- 👀 I’m interested in building Cloud Computing Solutions and Systems Engineering Design.
+- 👀 I’m interested in building Cloud Computing Solutions and Systems Engineering Designs.
 - 🌱 I’m currently learning on building Cloud Computing Solutions with Amazon AWS, Microsoft Azure, Google GCP and Huawei HCS 
 - 💞️ I’m looking to collaborate on Cloud Computing and Software Development Projects.
 - 📫 Email: titus.mahwenda@pegiondata.com || Phone: +263783189182 || Website: https://www.pegiondata.com
